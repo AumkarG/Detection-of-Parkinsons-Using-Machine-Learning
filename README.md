@@ -12,3 +12,9 @@ Tania Rajabally
 Mentors :
 Dr. Preetida V Jani
 Dr. Dayanand Ambawade
+
+
+Datasets used :
+1) MPower
+2) Italian Voice and Speech : https://ieee-dataport.org/open-access/italian-parkinsons-voice-and-speech
+3) Spiral and Box tracings dataset
